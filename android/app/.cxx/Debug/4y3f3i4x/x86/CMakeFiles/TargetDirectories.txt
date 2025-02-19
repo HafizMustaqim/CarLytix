@@ -1,0 +1,2 @@
+C:/Users/hafiz/OneDrive/Desktop/carea_app/android/app/.cxx/Debug/4y3f3i4x/x86/CMakeFiles/edit_cache.dir
+C:/Users/hafiz/OneDrive/Desktop/carea_app/android/app/.cxx/Debug/4y3f3i4x/x86/CMakeFiles/rebuild_cache.dir

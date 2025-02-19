@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.iconic.carea.app-mergeDebugResources-43:/values-port/values-port.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\hafiz\\.gradle\\caches\\transforms-3\\16b5d7086c52211c5a32c9472ec3760d\\transformed\\appcompat-1.1.0\\res\\values-port\\values-port.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "55",
+                        "endOffsets": "106"
+                    }
+                }
+            ]
+        }
+    ]
+}
