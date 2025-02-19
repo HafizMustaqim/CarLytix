@@ -1,16 +1,8 @@
-# carea
+# CarLytix 🚗📊  
 
-A new Flutter project.
+CarLytix is a powerful and easy-to-use car valuation and sales tracking app. It helps users estimate the market value of their vehicles and report sales data to improve pricing accuracy.  
 
-## Getting Started
+## Features  
+✅ Instant vehicle price estimation  
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Stay ahead in the used car market with **CarLytix**! 🚀  
